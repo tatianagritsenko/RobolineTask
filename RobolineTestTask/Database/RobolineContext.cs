@@ -12,8 +12,8 @@ public partial class RobolineContext : DbContext
         connectionString = configuration.GetConnectionString("RobolineDBString");
     }
 
-    public DbSet<ProductCategory> ProductCategories { get; set; }
-    public DbSet<Product> Products { get; set; }
+    public DbSet<ProductCategory> ProductCategories { get; set; } // таблица ProductCategories
+    public DbSet<Product> Products { get; set; } // таблица Products
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

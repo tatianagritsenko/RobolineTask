@@ -131,3 +131,4 @@ C:\Users\Татьяна Гриценко\source\repos\RobolineTestTask\RobolineT
 C:\Users\Татьяна Гриценко\source\repos\RobolineTestTask\RobolineTestTask\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Татьяна Гриценко\source\repos\RobolineTestTask\RobolineTestTask\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Татьяна Гриценко\source\repos\RobolineTestTask\RobolineTestTask\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Татьяна Гриценко\source\repos\RobolineTestTask\RobolineTestTask\obj\Debug\net8.0\RobolineTestTask.sourcelink.json

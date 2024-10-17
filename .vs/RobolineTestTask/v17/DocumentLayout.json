@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\database\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\database\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\database\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\database\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\database\\robolinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\database\\robolinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\robolinetesttask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\robolinetesttask.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\robolinetesttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\robolinetesttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,150 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductCategoryController.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Controllers\\ProductCategoryController.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductCategoryController.cs",
-              "RelativeToolTip": "RobolineTestTask\\Controllers\\ProductCategoryController.cs",
-              "ViewState": "AQIAAGgAAAAAAAAAAAAwwG8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:19:39.356Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RobolineContext.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\RobolineContext.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Database\\RobolineContext.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\RobolineContext.cs",
-              "RelativeToolTip": "RobolineTestTask\\Database\\RobolineContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:29:49.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RobolineTestTask\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T19:30:07.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Program.cs",
               "RelativeDocumentMoniker": "RobolineTestTask\\Program.cs",
               "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Program.cs",
               "RelativeToolTip": "RobolineTestTask\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T14:41:46.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\ProductCategory.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Database\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\ProductCategory.cs",
-              "RelativeToolTip": "RobolineTestTask\\Database\\ProductCategory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T19:22:25.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\Product.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Database\\Product.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Database\\Product.cs",
-              "RelativeToolTip": "RobolineTestTask\\Database\\Product.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T21:11:17.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\appsettings.json",
-              "RelativeDocumentMoniker": "RobolineTestTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\appsettings.json",
-              "RelativeToolTip": "RobolineTestTask\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-16T18:38:08.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RobolineTestTask.http",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\RobolineTestTask.http",
-              "RelativeDocumentMoniker": "RobolineTestTask\\RobolineTestTask.http",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\RobolineTestTask.http",
-              "RelativeToolTip": "RobolineTestTask\\RobolineTestTask.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-13T14:41:54.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RobolineTestTask.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\RobolineTestTask.csproj",
-              "RelativeDocumentMoniker": "RobolineTestTask\\RobolineTestTask.csproj",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\RobolineTestTask.csproj",
-              "RelativeToolTip": "RobolineTestTask\\RobolineTestTask.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T19:21:54.213Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "ffee0a21-4bd0-43b3-95fd-9118ee0c078b",
-        "Display": 0,
-        "X": 663,
-        "Y": 124,
-        "Width": 1064,
-        "Height": 633,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "RobolineTestTask\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAowGsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:04:06.946Z",
               "EditorCaption": ""
             }
           ]

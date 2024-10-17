@@ -5,11 +5,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 // получаем строку подключения к базе данных из файла конфигурации
 string connection = builder.Configuration.GetConnectionString("RobolineDBString");
-//string connection = builder.Configuration.GetConnectionString("MyDataBaseString");
 
 // Add services to the container.
 
-// добавляем контекст DatabaseContext в качестве сервиса в приложение
+// добавляем контекст RobolineContext в качестве сервиса в приложение
 builder.Services.AddDbContext<RobolineContext>(options => options.UseSqlite(connection));
 
 
