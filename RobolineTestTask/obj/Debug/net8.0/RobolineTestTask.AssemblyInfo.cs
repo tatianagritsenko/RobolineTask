@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobolineTestTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21583b06e614e903fa672e16eb183853684d6f00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6870cb9aa2b6c535b328cb3cfb0f8d48fb6e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobolineTestTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobolineTestTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

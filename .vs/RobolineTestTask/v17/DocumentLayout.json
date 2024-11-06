@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|c:\\users\\\u0442\u0430\u0442\u044C\u044F\u043D\u0430 \u0433\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\robolinetesttask\\robolinetesttask\\paginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35811F9-04FD-406D-9CFC-F663F399ADD2}|RobolineTestTask\\RobolineTestTask.csproj|solutionrelative:robolinetesttask\\paginationparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Program.cs",
-              "RelativeDocumentMoniker": "RobolineTestTask\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Program.cs",
-              "RelativeToolTip": "RobolineTestTask\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "PaginationParameters.cs",
+              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\PaginationParameters.cs",
+              "RelativeDocumentMoniker": "RobolineTestTask\\PaginationParameters.cs",
+              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\PaginationParameters.cs",
+              "RelativeToolTip": "RobolineTestTask\\PaginationParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T14:41:46.581Z",
+              "WhenOpened": "2024-11-06T14:00:41.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "RobolineTestTask\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "C:\\Users\\\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0413\u0440\u0438\u0446\u0435\u043D\u043A\u043E\\source\\repos\\RobolineTestTask\\RobolineTestTask\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "RobolineTestTask\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:55:27.431Z",
               "EditorCaption": ""
             }
           ]

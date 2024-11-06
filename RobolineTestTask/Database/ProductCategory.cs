@@ -15,4 +15,7 @@ public class ProductCategory
 
     [DefaultValue(null)]
     public string? Description { get; set; }
+
+    [DefaultValue(null)]
+    public ICollection<Product>? Products { get; set; }
 }

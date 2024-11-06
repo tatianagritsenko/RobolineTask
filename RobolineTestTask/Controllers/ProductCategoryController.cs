@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RobolineTestTask.Database;
+using System.Linq;
 
 namespace RobolineTestTask.Controllers
 {
@@ -12,6 +13,48 @@ namespace RobolineTestTask.Controllers
         public ProductCategoryController(RobolineContext databaseContext)
         {
             db = databaseContext;
+        }
+
+        [HttpGet("categories/price")]
+        public IActionResult GetPrice(int pageNumber, int pageSize)
+        {
+            try
+            {
+                int totalCount = db.ProductCategories.Count();
+
+                var parameters = new PaginationParameters(pageNumber, pageSize, totalCount); // Внутри конструктора происходит валидация параметров
+                                                                                             // В случае ошибки бросается ArgumentException
+
+                // LINQ-выражение через методы расширений
+                var result = db.ProductCategories
+                    .Select(c => new
+                    {
+                        CategoryName = c.Name,
+                        ProductCount = (c.Products != null) ? c.Products.Count() : 0,
+                        AveragePrice = (c.Products != null) ? Math.Round(c.Products.Average(p => (double)p.Price), 2) : 0
+                    })
+                    .Skip((parameters.PageNumber-1)*parameters.PageSize)
+                    .Take(parameters.PageSize);
+
+                var response = new
+                {
+                    Data = result,                       // данные
+                    PageNumber = parameters.PageNumber,  // номер страницы
+                    TotalPages = parameters.TotalPages,  // общее кол-во страниц
+                    PageSize = parameters.PageSize,      // размер страницы
+                    TotalCount = totalCount              // кол-во всех записей
+                };
+
+                return Ok(response);
+            }
+            catch (ArgumentException ex) // ошибка валидации параметров
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest("Failed to read records from the database. " + ex.Message + " " + ex.InnerException?.Message);
+            }
         }
 
         // получение всех категорий

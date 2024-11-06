@@ -19,6 +19,6 @@ namespace RobolineTestTask.Database
 
         [Range(1, int.MaxValue, ErrorMessage = "The value must be a positive number")]
         [DefaultValue(0)]
-        public int CategoryId { get; set; }
+        public int ProductCategoryId { get; set; }
     }
 }

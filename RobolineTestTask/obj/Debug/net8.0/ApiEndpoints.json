@@ -156,5 +156,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RobolineTestTask.Controllers.ProductCategoryController",
+    "Method": "GetPrice",
+    "RelativePath": "api/ProductCategory/categories/price",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
